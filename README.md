@@ -7,8 +7,7 @@ Luke Eakin
 
 ## Basic Mapping
 
-- [First map in QGIS]([https://github.com/jiashenyue/geo441-541/blob/main/basic-mapping/first-arcgis-mapping.ipynb](https://github.com/jiashenyue/geo242/blob/main/basic-mapping/first-qgis-mapping.ipynb))
-- [Map the age index based on 2000 census data](https://github.com/jiashenyue/geo242/blob/main/basic-mapping/age-index-mapping.ipynb)
+- https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/basic-mapping/Copy_of_geo242_week_02_assignment_template.ipynb
 
 ## Map Coordinate Basics
 
