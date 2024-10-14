@@ -10,7 +10,6 @@ Luke Eakin
 - https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/basic-mapping/Copy_of_geo242_week_02_assignment_template.ipynb
 - https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/basic-mapping/counties_age_index.ipynb
 
-## Map Coordinate Basics
+## Georeferencing
 
-- [Understanding map coordinates](https://github.com/jiashenyue/geo242/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
-- [Georeference a 1960s Miami University campus map](https://github.com/jiashenyue/geo242/blob/main/map-coordinates-basics/georeference-miami-univ-campus-map.ipynb)
+- https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/georeferencing/basic_map_tiler_projections.ipynb
