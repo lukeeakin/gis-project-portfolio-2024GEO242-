@@ -13,7 +13,7 @@ Luke Eakin
 
 ## Georeferencing
 
-- https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/georeferencing/basic_map_tiler_projections.ipynb
+- [Georeferencing Oxford, Ohio](https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/georeferencing/basic_map_tiler_projections.ipynb)
 
 ## Map Projecting
 
