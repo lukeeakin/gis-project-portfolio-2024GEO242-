@@ -8,7 +8,6 @@ Luke Eakin
 ## Basic Mapping
 
 - [North American Rivers and Basins](https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/basic-mapping/Copy_of_geo242_week_02_assignment_template.ipynb)
-- [Query and filter spatial data](https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/basic-mapping/counties_age_index.ipynb)
 - [Understand Band Composite](https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/basic-mapping/Understand_Band_Composite.ipynb)
 
 ## Georeferencing
@@ -23,3 +22,6 @@ Luke Eakin
 
 - [Cholera spread in Soho, London](https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/spatial_analysis/week10_spatial_analysis.ipynb)
 - [Working with U.S. Census Data](https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/spatial_analysis/week12OhioPopulationMaps.ipynb)
+
+## Filter Spatial Data
+- [Query and filter spatial data](https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/basic-mapping/counties_age_index.ipynb)
