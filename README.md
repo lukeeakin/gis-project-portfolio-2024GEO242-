@@ -9,7 +9,7 @@ Luke Eakin
 
 - [North American Rivers and Basins](https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/basic-mapping/Copy_of_geo242_week_02_assignment_template.ipynb)
 - [Query and filter spatial data](https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/basic-mapping/counties_age_index.ipynb)
-- https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/basic-mapping/Understand_Band_Composite.ipynb
+- [Understand Band Composite](https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/basic-mapping/Understand_Band_Composite.ipynb)
 
 ## Georeferencing
 
