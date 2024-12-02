@@ -17,7 +17,7 @@ Luke Eakin
 
 ## Map Projecting
 
-- https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/map-projection/understanding%20_map_projection.ipynb
+- [Understanding the Map Projection](https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/map-projection/understanding%20_map_projection.ipynb)
 
 ## Spatial Analysis
 
