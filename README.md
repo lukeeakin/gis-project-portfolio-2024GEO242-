@@ -22,4 +22,4 @@ Luke Eakin
 ## Spatial Analysis
 
 - [Cholera spread in Soho, London](https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/spatial_analysis/week10_spatial_analysis.ipynb)
-- https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/spatial_analysis/week12OhioPopulationMaps.ipynb
+- [Working with U.S. Census Data](https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/spatial_analysis/week12OhioPopulationMaps.ipynb)
