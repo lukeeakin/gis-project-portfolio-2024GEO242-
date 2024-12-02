@@ -21,5 +21,5 @@ Luke Eakin
 
 ## Spatial Analysis
 
-- https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/spatial_analysis/week10_spatial_analysis.ipynb
+- [Cholera spread in Soho, London](https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/spatial_analysis/week10_spatial_analysis.ipynb)
 - https://github.com/lukeeakin/gis-project-portfolio-2024GEO242-/blob/main/spatial_analysis/week12OhioPopulationMaps.ipynb
